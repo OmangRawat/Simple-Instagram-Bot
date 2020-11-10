@@ -1,12 +1,11 @@
 # Simple Instagram Bot
  Unfollower Finder
-
-Selenium based Instagram Bot using Chrome Web Driver <br />
-(Selenium: Python Web-Automation Library)   <br />
-
+ Selenium based Instagram Bot using Chrome Web Driver <br />
+ (Selenium: Python Web-Automation Library)   <br />
 
 
-Requirements to use the Bot: <br />
+
+# Requirements to use the Bot: <br />
 1.) You should have the right Chrome Web Driver installed (based on the Chrome Version you are using) <br />
       Why?? -> Thats what is used to get through the security against bots of the browser <br /> <br />
 2.) And if the program throws error you need to recheck the autoclicks <br />
